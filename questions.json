@@ -7,5 +7,14 @@
     "d":"d) 12",
     "e":"e) 24",
     "gabarito": "e"
+  },
+  {
+    "comando": "Enem (2022) Ao escutar à notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos. O número escrito pelo estudante foi"
+    "a":"a) 135 000,00",
+    "b":"b) 1 350 000,00",
+    "c":"c) 13 500 000,00",
+    "d":"d) 135 000 000,00",
+    "e":"e) 1 350 000 000,00",
+    "gabarito": "e"
   }
 ]
