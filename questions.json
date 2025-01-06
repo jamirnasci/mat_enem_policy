@@ -16,5 +16,104 @@
     "d":"d) 135 000 000,00",
     "e":"e) 1 350 000 000,00",
     "gabarito": "e"
+  },
+  {
+    "comando": "(Enem 2023) Um reservatório de água com formato cilíndrico tem raio da base igual a 2 m e altura igual a 6 m. Ele está inicialmente vazio, e uma torneira com vazão constante de 0,5 m³/min é usada para enchê-lo. Quanto tempo, em minutos, a torneira levará para encher completamente o reservatório?",
+    "a": "a) 24π",
+    "b": "b) 48",
+    "c": "c) 72",
+    "d": "d) 96",
+    "e": "e) 144π",
+    "gabarito": "a"
+  },
+  {
+    "comando": "(Enem 2023) Um veículo percorreu 300 km consumindo 20 litros de combustível. Se o preço do litro de combustível é R$ 5,80, qual foi o custo por quilômetro rodado?",
+    "a": "a) R$ 0,29",
+    "b": "b) R$ 0,35",
+    "c": "c) R$ 0,38",
+    "d": "d) R$ 0,42",
+    "e": "e) R$ 0,46",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(Enem 2023) Uma loja oferece um desconto de 25% sobre o valor total das compras acima de R$ 200,00. Um cliente comprou produtos no valor de R$ 320,00. Qual foi o valor pago por ele após o desconto?",
+    "a": "a) R$ 80,00",
+    "b": "b) R$ 160,00",
+    "c": "c) R$ 240,00",
+    "d": "d) R$ 260,00",
+    "e": "e) R$ 300,00",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(Enem 2023) Um tanque em forma de um cilindro reto possui um raio da base de 1,5 m e altura de 4 m. Qual é o volume do tanque, em metros cúbicos? (Considere π ≈ 3,14)",
+    "a": "a) 18,84",
+    "b": "b) 28,26",
+    "c": "c) 37,68",
+    "d": "d) 56,52",
+    "e": "e) 113,04",
+    "gabarito": "b"
+  },
+  {
+    "comando": "(Enem 2023) Uma pessoa aplica R$ 1.000,00 em uma conta que rende 1% de juros ao mês, com capitalização mensal. Qual será o valor acumulado após 3 meses? (Considere juros compostos: M = P(1 + i)^n)",
+    "a": "a) R$ 1.020,00",
+    "b": "b) R$ 1.030,00",
+    "c": "c) R$ 1.060,90",
+    "d": "d) R$ 1.080,00",
+    "e": "e) R$ 1.103,00",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(Enem 2023) Um professor organizou uma excursão com 45 alunos. Ele aluga um ônibus que comporta 50 passageiros e paga R$ 3.750,00 pelo transporte. Quanto cada aluno deverá pagar, sabendo que o professor não dividirá o valor com eles?",
+    "a": "a) R$ 75,00",
+    "b": "b) R$ 83,33",
+    "c": "c) R$ 85,00",
+    "d": "d) R$ 90,00",
+    "e": "e) R$ 95,00",
+    "gabarito": "b"
+  },
+  {
+    "comando": "(Enem 2023) Um agricultor utiliza um sistema de irrigação que libera 1,2 litros de água por minuto por metro quadrado. Ele precisa irrigar uma área retangular de 30 metros de comprimento por 20 metros de largura durante 2 horas. Quantos litros de água serão necessários para irrigar essa área durante o tempo especificado?",
+    "a": "a) 720",
+    "b": "b) 36.000",
+    "c": "c) 43.200",
+    "d": "d) 50.400",
+    "e": "e) 86.400",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(Enem 2023) Um restaurante oferece um desconto progressivo para clientes que consomem um número maior de refeições. O desconto segue a seguinte regra: para até 5 refeições, não há desconto; de 6 a 10 refeições, o desconto é de 10%; acima de 10 refeições, o desconto é de 20%. Um cliente consumiu 12 refeições, sendo que cada uma custa R$ 50,00. Qual foi o valor total pago pelo cliente?",
+    "a": "a) R$ 500,00",
+    "b": "b) R$ 540,00",
+    "c": "c) R$ 600,00",
+    "d": "d) R$ 480,00",
+    "e": "e) R$ 650,00",
+    "gabarito": "d"
+  },
+  {
+    "comando": "(Enem 2023) Um ciclista participa de uma competição em que ele deve completar um percurso circular de 3 km de raio. Ele percorre 5 voltas completas no circuito. Qual é a distância total percorrida por ele, em quilômetros?",
+    "a": "a) 15π",
+    "b": "b) 30π",
+    "c": "c) 60",
+    "d": "d) 15",
+    "e": "e) 45π",
+    "gabarito": "b"
+  },
+  {
+    "comando": "(Enem 2023) Em uma fábrica, 8 máquinas iguais produzem 960 peças em 4 horas, trabalhando continuamente. Quantas peças seriam produzidas por 6 dessas máquinas, trabalhando nas mesmas condições, em 5 horas?",
+    "a": "a) 600",
+    "b": "b) 720",
+    "c": "c) 900",
+    "d": "d) 960",
+    "e": "e) 1.200",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(Enem 2023) Uma piscina tem o formato de um paralelepípedo retângulo com dimensões internas de 10 metros de comprimento, 5 metros de largura e 2 metros de profundidade. Ao ser preenchida com água, 20% do volume da piscina é ocupado por impurezas e objetos flutuantes. Qual é o volume de água útil, em metros cúbicos, disponível na piscina?",
+    "a": "a) 50",
+    "b": "b) 80",
+    "c": "c) 100",
+    "d": "d) 120",
+    "e": "e) 150",
+    "gabarito": "b"
   }
 ]
