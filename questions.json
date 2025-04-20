@@ -126,12 +126,84 @@
     "gabarito": "e"   
   },
   {
-    "comando": "(Enem/2019) Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes 20% das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como inconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações consideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas. Constatou-se ainda que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas. Qual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que ela era fraudulenta?",
+    "comando": "(Enem 2019) Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes 20% das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como inconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações consideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas. Constatou-se ainda que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas. Qual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que ela era fraudulenta?",
     "a": "a) 0,0500",
     "b": "b) 0,1000",
     "c": "c) 0,1125",
     "d": "d) 0,3125",
     "e": "e) 0,5000",
     "gabarito": "e"
+  },
+  {
+    "comando": "(Enem 2021) Uma unidade de medida comum usada para expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada. Nas condições estabelecidas, o valor total, em real, obtido pelo fazendeiro com a venda de todos os terrenos será igual a.",
+    "a": "a) 700 000.",
+    "b": "b) 1 600 000.",
+    "c": "c) 1 900 000.",
+    "d": "d) 2 200 000.",
+    "e": "e) 2 800 000.",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(Enem 2021) Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$ 35,00. Para cobrir as despesas com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária de, pelo menos, R$ 300,00. Para não ter prejuízo, o menor número de lavagens diárias que o lava-rápido deve efetuar é",
+    "a": "a) 6",
+    "b": "b) 8",
+    "c": "c) 9",
+    "d": "d) 15",
+    "e": "e) 20",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(Enem 2021) Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 20 km percorridos. O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é",
+    "a": "a) 15,9",
+    "b": "b) 16,1",
+    "c": "c) 16,4",
+    "d": "d) 17,4",
+    "e": "e) 18,0",
+    "gabarito": "d"
+  },
+  {
+    "comando": "(Enem 2021) Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa. Considere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para π. Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a",
+    "a": "a) 1,12",
+    "b": "b) 3,10",
+    "c": "c) 4,35",
+    "d": "d) 4,48",
+    "e": "e) 5,60",
+    "gabarito": "d"
+  },
+  {
+    "comando": "(Enem 2021) Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocas de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido. Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?",
+    "a": "a) 6,0",
+    "b": "b) 5,7",
+    "c": "c) 5,0",
+    "d": "d) 4,5",
+    "e": "e) 4,4",
+    "gabarito": "a"
+  },
+  {
+    "comando": "(Enem 2021) Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar 10% de passageiros a mais do que o modelo A, mas consumindo 10% menos combustível por quilômetro e por passageiro. A quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é",
+    "a": "a) 10% menor.",
+    "b": "b) 1% menor.",
+    "c": "c) igual",
+    "d": "d) 1% maior",
+    "e": "e) 11% maior",
+    "gabarito": "b"
+  },
+  {
+    "comando": "(Enem 2021) Aplicativos que gerenciam serviços de hospedagem têm ganhado espaço no Brasil e no mundo por oferecer opções diferenciadas em termos de localização e valores de hospedagem. Em um desses aplicativos, o preço P a ser pago pela hospedagem é calculado considerando um preço por diária d, acrescido de uma taxa fixa de limpeza L e de uma taxa de serviço. Essa taxa de serviço é um valor percentual s calculado sobre o valor pago pelo total das diárias. Nessa situação, o preço a ser pago ao aplicativo para uma hospedagem de n diárias pode ser obtido pela expressão",
+    "a": "a) P = d . n + L + d . n . s",
+    "b": "b) P = d . n + L + d . s",
+    "c": "c) P = d + L + s",
+    "d": "d) P = d . n . s + L",
+    "e": "e) P = d . n + L + s",
+    "gabarito": "a"
+  },
+  {
+    "comando": "(Enem 2021) O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento 1/2, probabilidade de acertar um dardo no alvo. A fim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a probabilidade de um jogador 9 pontuar em uma rodada seja igual ou superior a 9/10. Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada. Com base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
+    "a": "a) 2",
+    "b": "b) 4",
+    "c": "c) 6",
+    "d": "d) 9",
+    "e": "e) 10",
+    "gabarito": "b"
   }
 ]
